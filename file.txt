@@ -1,2 +1,3 @@
 echo new text
 second line
+third line
